@@ -15,4 +15,5 @@ O objetivo do projeto era criar uma página única para uma casa de show/cinema 
 ## Melhorias Futuras
 
 Eu gostaria de criar uma página extra onde o usuário possa comprar o ingresso e outras animações. Também seria interessante torná-la responsiva em telas menores como celulares e tablets.
-#### Último Update: 23/03/2025
+
+![Last Updated](https://img.shields.io/github/last-commit/minesweeper1989/casadeshow-caw)
